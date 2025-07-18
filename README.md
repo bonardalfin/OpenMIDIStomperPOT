@@ -1,5 +1,5 @@
 
-# OpenMIDIStomper
+# OpenMIDIStomperPOT
 
 ## What's changed
 OpenMIDIStomper is a project created by Gustavo Silveira / silveirago / Nerd Musician (https://github.com/silveirago/OpenMIDIStomper).
