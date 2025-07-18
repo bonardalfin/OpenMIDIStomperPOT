@@ -1,6 +1,11 @@
 
 # OpenMIDIStomper
 
+## What's changed
+OpenMIDIStomper is a project created by Gustavo Silveira / silveirago / Nerd Musician (https://github.com/silveirago/OpenMIDIStomper).
+There's code in the __openMIDIStomper.ino_ and _PotentiometerControl.h_ files that I modified to use B10K potentiometer instead of the Expression Pedal.
+For some reason, I couldn't use the B10K potentiometer with the original code.
+
 ## Description
 _openMIDIStomper is an Arduino-based MIDI foot controller that provides customizable MIDI message sending capabilities using buttons, potentiometers, and LEDs. It can control any DAW plugin since it's USB MIDI Class compliant. It features 8 stomp buttons and 8 LEDs, all housed in a Hammond aluminum enclosure. The pedalboard has 8 banks, and each button can send up to 5 different messages, configurable through a browser editor.
 
